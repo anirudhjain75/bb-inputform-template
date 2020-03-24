@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bb-inputform-template/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bb-inputform-template/static/js/main.1e245210.chunk.js",
+    "main.js.map": "/bb-inputform-template/static/js/main.1e245210.chunk.js.map",
+    "runtime-main.js": "/bb-inputform-template/static/js/runtime-main.4d2d3d9c.js",
+    "runtime-main.js.map": "/bb-inputform-template/static/js/runtime-main.4d2d3d9c.js.map",
+    "static/css/2.de424728.chunk.css": "/bb-inputform-template/static/css/2.de424728.chunk.css",
+    "static/js/2.dcae3faa.chunk.js": "/bb-inputform-template/static/js/2.dcae3faa.chunk.js",
+    "static/js/2.dcae3faa.chunk.js.map": "/bb-inputform-template/static/js/2.dcae3faa.chunk.js.map",
+    "index.html": "/bb-inputform-template/index.html",
+    "precache-manifest.99b8083aaa1f123cf6e326cae466610e.js": "/bb-inputform-template/precache-manifest.99b8083aaa1f123cf6e326cae466610e.js",
+    "service-worker.js": "/bb-inputform-template/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/bb-inputform-template/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/bb-inputform-template/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dcae3faa.chunk.js.LICENSE.txt": "/bb-inputform-template/static/js/2.dcae3faa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2d3d9c.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.dcae3faa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1e245210.chunk.js"
+  ]
+}
