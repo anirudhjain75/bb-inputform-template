@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {Form, Col, Row, Button, Modal} from 'react-bootstrap';
+import {Form, Col, Row, Button} from 'react-bootstrap';
 import EntityTypeModal from "./EntityTypeModal";
 import EntitySpecificProperties from "./EntitySpecificProperties";
 // import TypeOptionCard from './typeOptionCard';
