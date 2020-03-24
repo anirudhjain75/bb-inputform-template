@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bb-inputform-template/precache-manifest.99b8083aaa1f123cf6e326cae466610e.js"
+  "/bb-inputform-template/precache-manifest.3587913e2e274d5078ff850d5657e76e.js"
 );
 
 self.addEventListener('message', (event) => {
